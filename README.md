@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hemanta%20Raj%20Bhatta&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:398f86,100:02332e&height=200&section=header&text=Hemanta%20Raj%20Bhatta&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 # ❄️ Turning Curiosity into Code ❄️  
 ### 💻 Developer | 🌍 Explorer | 🚀 Dreamer  
